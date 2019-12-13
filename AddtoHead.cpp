@@ -33,7 +33,6 @@ int main()
     addtohead(head1,7);
     addtohead(head1,6);
     addtohead(head1,5);
-    addtohead(head2,10);
-    printlist(head);
+    printlist(head1);
     return 0;
 }
