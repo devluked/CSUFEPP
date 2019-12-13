@@ -1,5 +1,3 @@
-//AddtoHead
-
 #include <iostream>
 using namespace std;
 
